@@ -38,4 +38,5 @@ Además de la estabilidad, se estudió la métrica de **nostalgia**, que mide la
 
 ## Autores  
 
-Este repositorio fue desarrollado por estudiantes de la materia de **Programación Lineal** en [nombre de la institución educativa], como parte de las actividades académicas.
+Repositorio académico desarrollado en la asignatura de **Programación Lineal** por:  
+- [Leonard David Vivas Dallos](https://github.com/leodavid0109)
